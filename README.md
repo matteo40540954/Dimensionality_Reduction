@@ -10,5 +10,5 @@ MNIST Dataset (60000 Handwritten digit images from 0 to 9 of 28×28 px → 784 f
 
 Real-world data is often high-dimensional (think 784 pixel values per image, or thousands of brain voxels in an fMRI scan) and difficult to interpret. Dimensionality reduction maps this data into a low-dimensional space (typically 2D or 3D called Embedding) while preserving its underlying structure, making patterns visible and interpretable.
 
-- Linear dimensionality reduction (e.g., PCA, tPCA) assumes that the underlying structure of the data is flat. And it does it by capturing the absolute highest amout of variance in the high dimensional data. 
+- Linear dimensionality reduction (e.g., PCA, tPCA) assumes that the underlying structure of the data is flat. PCA, for example, captures the absolute highest amount of variance in the high dimensional data. 
 
