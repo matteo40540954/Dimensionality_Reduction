@@ -1,2 +1,3 @@
-# Intro_PCA_tSNE
-Small project for intro to python
+# Introduction to Dimensionality reduction 
+
+This was a small project for the class "Introduction to Python" in which i had to compute PCA and tSNE using only matplotlib, pandas and numpy. 
